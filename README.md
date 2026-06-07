@@ -45,7 +45,7 @@
 | Project Name | Scope | Description |
 | :--- | :--- | :--- |
 | 🧪 **ResumeAnalyzer** | `Public` | AI-powered resume analysis and parsing tool. |
-| 🛒 **FOOD-DEL** | `Private` 🔒 | Full-stack food delivery application with seamless user experience. |
+| 🛒 **FOOD-DEL** | `Public` | Full-stack food delivery application with seamless user experience. |
 | 💳 **Expense-Tracker** | `Public` | Personal finance tracker to monitor daily expenses and budgets. |
 | 🌤️ **Weather-App** | `Public` | Real-time weather forecasting application built using React.js. |
 | 🤖 **StuddyBot** | `Public` | Interactive study assistant bot powered by automation logic. |
